@@ -1,9 +1,11 @@
 [package]
 name = "entropy-gradient"
 version = "0.1.0"
-description = "A Rust library for Entropy Gradient"
+description = "Entropy Gradient — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/entropy-gradient"
+repository = "https://github.com/SuperInstance/entropy-gradient"
 edition = "2021"
+
+keywords = ["entropy-gradient"]
 
 [dependencies]
